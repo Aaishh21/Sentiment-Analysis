@@ -18,14 +18,14 @@
 
 ## Установка и запуск
 
-1. Клонируйте репозиторий:
+1. Клонируйте репозиторий: <br>
 git clone <https://github.com/Aaishh21/Sentiment-Analysis.git> <br>
 cd sentiment-analysis
 
-2. Установите зависимости:
+2. Установите зависимости:<br>
 pip install -r requirements.txt
 
-3. Запустите Jupiter Notebook:
+3. Запустите Jupiter Notebook:<br>
 jupyter notebook sentiment_analysis.ipynb
 
 ---
@@ -38,5 +38,5 @@ jupyter notebook sentiment_analysis.ipynb
 ---
 
 ## Пример работы модели
-"The food was amazing and the service was great!" → Positive ^_^ <br>
-"The service was terrible and the food was cold." → Negative T_T
+"The food was really good" → Positive ^_^ <br>
+"The service was terrible." → Negative T_T
