@@ -19,7 +19,7 @@
 ## Установка и запуск
 
 1. Клонируйте репозиторий:
-git clone <URL_репозитория>
+git clone <https://github.com/Aaishh21/Sentiment-Analysis.git> <br>
 cd sentiment-analysis
 
 2. Установите зависимости:
@@ -32,11 +32,11 @@ jupyter notebook sentiment_analysis.ipynb
 
 ## Датасет
 
-Используется датасет Restaurant Reviews с Kaggle:
+Используется датасет Restaurant Reviews с Kaggle. <br>
 [Ссылка на Kaggle](https://www.kaggle.com/datasets/d4rklucif3r/restaurant-reviews?resource=download)
 
 ---
 
 ## Пример работы модели
-"The food was amazing and the service was great!" → Positive ^_^
+"The food was amazing and the service was great!" → Positive ^_^ <br>
 "The service was terrible and the food was cold." → Negative T_T
